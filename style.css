@@ -1,0 +1,96 @@
+body {
+	margin:25px 0px; padding:0px;
+	text-align:center;
+	background: #279bd5 url(img/bg.gif) repeat-x;
+	color: #fff;
+	font-family: Trebuchet MS, Georgia, serif;
+	font-size: 1.3em;
+	line-height: 140%;
+}
+ 
+h1 {
+	font-size: 1.6em;
+	text-transform: uppercase;
+	position: absolute;
+}
+ 
+.slogan {
+	padding-top: 1.85em;
+	font-size: 1.1em;
+}
+ 
+a {
+	color: #ccc;
+	text-decoration: none;
+}
+ 
+a:hover {color: #fff;}
+ 
+.container {
+	width: 890px;
+	margin:0px auto;
+	text-align:left;
+	padding:15px;
+}
+ 
+.insider {width: 890px; float: left;}
+	
+ 
+#nav {
+	width: auto;
+	font-size: 0.70em;
+	list-style: none;
+	padding: 0;
+	margin-top: 3em;
+	float: right;
+	clear: both;
+}
+ 
+#nav li {
+	background-color: #0776a0;
+	text-align: left;
+	float: left;
+	text-transform: uppercase;
+	border-right: 2px solid #279bd5;
+	display: block;
+}
+	
+#nav li a, #nav li a:visited {
+	display: block;
+	padding: 0.4em 4em 0.4em 0.4em;
+	color: #FFF;
+	text-decoration: none;
+}
+	
+#nav li a:hover {
+	color: #FFF;
+	background-color: #279bd5;
+	text-decoration: none;
+}
+		
+#nav li a.current, #nav li a.current:visited, #nav li a.current:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.left {float: left;}
+
+.footer {
+	width: 890px;
+	font-size: 0.8em;
+	text-align: right;
+	margin-top: 1em;
+	padding: 5px;
+	border-top: 2px solid #ccc;
+	float: left;
+	clear: both;
+}
+
+.settings {
+	clear: both;
+	margin: 15px;
+	border-top: 5px solid #65A5D1;
+	text-align: left;
+}
+
+.wrong {color: #FF4040;}

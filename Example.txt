@@ -1,0 +1,3 @@
+This is an example page.<br />
+<br />
+To add a new one, simply open up extra settings (at the bottom of the screen when you login), click under the Add Page and type in your new page name below the others.
