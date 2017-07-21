@@ -1,0 +1,10 @@
+<Files password>
+order allow,deny
+deny from all
+</Files>
+Options +FollowSymLinks
+Options +Indexes
+RewriteEngine on
+RewriteBase /
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^([^\.]+)$ ?page=$1 [NC,L]
