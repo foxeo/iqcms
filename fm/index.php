@@ -50,7 +50,7 @@ ini_set('error_log'     , $_SERVER['SCRIPT_FILENAME'].'.ERROR.log');
 $config_title = "IQ CMS FILE MGR";
 
 $USERNAME = "username;
-$HASHWORD = "cf1ed645efdcf2047d3a21b96950afa6e9b6a10a7814b00935bfe03ce5c81245";
+$HASHWORD = "a6ca7f88bd5efc706d38047cc5844d2b11f86242c01he0c89a1c656dbe2dd1866";
 $SALT     = 'somerandomsalt';
 
 //$LANGUAGE_FILE = "OneFileCMS.LANG.EN.php"; //Filename of language settings.
