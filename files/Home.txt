@@ -1,4 +1,4 @@
-Congratulations, this website is now powered by IQ CMS. <img src="http://sae.tweek.us/static/images/emoticons/wink.gif" alt=";)"><br />
+Congratulations, this website is now powered by IQ CMS ;-)<br />
 <br />
 You can login into the administration panel with the "Login" link in the footer and the default password <b>admin</b>. Change the password as soon as possible.<br />
 <br />
@@ -6,4 +6,6 @@ Once logged in, click anywhere on the content to edit it, and click outside to s
 <br />
 <b>You can also add more pages, change your website keywords, description, title, slogan, copyright at the bottom of the administration page.</b><br />
 <br />
-IQ CMS has a footprint of less than 20kB. (13kB if zipped - that is why it is the smallest, and "the cutest" CMS !)
+IQ CMS has a footprint of less than 20kB. (13kB if zipped - that is why it is the smallest, and<br />
+<br />
+"the cutest" CMS ;-)
