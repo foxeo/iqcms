@@ -49,7 +49,7 @@ ini_set('error_log'     , $_SERVER['SCRIPT_FILENAME'].'.ERROR.log');
 // CONFIGURABLE INFO ***********************************************************
 $config_title = "IQ CMS FILE MGR";
 
-$USERNAME = "otismo";
+$USERNAME = "username;
 $HASHWORD = "cf1ed645efdcf2047d3a21b96950afa6e9b6a10a7814b00935bfe03ce5c81245";
 $SALT     = 'somerandomsalt';
 
