@@ -47,7 +47,7 @@ ini_set('error_log'     , $_SERVER['SCRIPT_FILENAME'].'.ERROR.log');
 
 
 // CONFIGURABLE INFO ***********************************************************
-$config_title = "TiNiLiL FILE MGR";
+$config_title = "IQ CMS FILE MGR";
 
 $USERNAME = "otismo";
 $HASHWORD = "cf1ed645efdcf2047d3a21b96950afa6e9b6a10a7814b00935bfe03ce5c81245";
@@ -72,7 +72,7 @@ $MAX_VIEW_SIZE = 1000000; // If file > $MAX_EDIT_SIZE, don't even view in OneFil
 $config_favicon   = "favicon.ico"; //Path is relative to root of website.
 $config_excluded  = ""; //files to exclude from directory listings- CaSe sEnsaTive!
 
-$config_etypes = "html,htm,xhtml,php,css,js,txt,text,cfg,conf,ini,csv,svg,log,htaccess"; //Editable file types.
+$config_etypes = "md,twig,yaml,yml,html,htm,xhtml,php,css,js,txt,text,cfg,conf,ini,csv,svg,log,htaccess"; //Editable file types.
 $config_stypes = "*"; // Shown types; only files of the given types should show up in the file-listing
 	// Use $config_stypes exactly like $config_etypes (list of extensions separated by semicolons).
 	// If $config_stypes is set to null - by intention or by error - OFCMS will only display folders.
