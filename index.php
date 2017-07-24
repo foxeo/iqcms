@@ -29,7 +29,7 @@ function getSlug( $page ) {
 
    $copyright = @file_get_contents('files/copyright.txt');
    if(!$copyright) $copyright = "Your website (c) 2013";
-   $mess = 'Powered by <a href="http://iqcms.com/">IQ CMS</a> | Web Design by <a href="http://iqcms.com/owd/">Otismo Web Design';
+   $mess = 'Powered by <a href="http://iqcms.com/">IQ CMS</a> | Web Design by <a href="http://iqcms.com/owd/">Otismo Web Design</a> | <a href="fm.php">IQ CMS File Mgr</a>';
 
 //config section
 	$hostname = $_SERVER['PHP_SELF'];
