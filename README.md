@@ -1,4 +1,11 @@
+I am not going to play games on GitHub
+I will upload the IQ CMS zipfile iqcms.zip
+The same archive that can be downloaded
+from my WebSite iqcms.com/iqcms.zip
+Thank You !
+
 # iqcms
+
 ## **_Intelligent Content Management Systems_**
 
 
