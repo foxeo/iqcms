@@ -28,8 +28,8 @@ function getSlug( $page ) {
    if(!$keywords) $keywords = "Enter, your, keywords, for, your, website, over, here";
 
    $copyright = @file_get_contents('files/copyright.txt');
-   if(!$copyright) $copyright = "Your website (c) 2013";
-   $mess = 'Powered by <a href="http://iqcms.com">IQ CMS</a> | Web Design by <a href="http://iqcms.com/owd/">Otismo Web Design</a> | <a href="fm.php">IQ CMS File Mgr</a>';
+   if(!$copyright) $copyright = "Your website (c) 2024";
+   $mess = 'Powered by <a href="http://iqcms.onfav.net">IQ CMS</a> | <a href="/fm/">TiNiLiL File Mgr</a>';
 
 //config section
 	$hostname = $_SERVER['PHP_SELF'];
